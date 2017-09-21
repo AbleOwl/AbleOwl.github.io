@@ -1,2 +1,2 @@
 # drystone.github.io
-dryhub website
+drystone website
